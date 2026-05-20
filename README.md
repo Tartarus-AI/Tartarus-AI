@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://tartarusai.dev/logo.svg" width="110" alt="TartarusAI">
+  <img src="https://raw.githubusercontent.com/Tartarus-AI/tartarusai-cli/main/assets/avatar-min.png" width="120" alt="TartarusAI">
   <h1>TartarusAI</h1>
-  <p><i>The coding agent that doesn't refuse your own work.</i></p>
+  <p><i>Uncensored AI coding agent. Doesn't refuse your own work.</i></p>
 </div>
 
 ---
 
-🩸 **Uncensored coding agent.** Does the work, skips the sermon.
+🩸 **Uncensored AI coding agent.** Does the work, skips the sermon.
 No card on file, no recurring charge, no "I can't help with that."
 
 - **256K context** · whole repos in one prompt
@@ -18,7 +18,7 @@ No card on file, no recurring charge, no "I can't help with that."
 
 | | |
 |---|---|
-| [`tartarusai-cli`](https://github.com/Tartarus-AI/tartarusai-cli) | Terminal client — Linux / Windows · MIT, fork of [opencode](https://github.com/sst/opencode) |
+| [`tartarusai-cli`](https://github.com/Tartarus-AI/tartarusai-cli) | Terminal client for the uncensored AI agent · Linux / Windows · MIT |
 
 ### Channels
 
