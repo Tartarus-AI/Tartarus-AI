@@ -1,4 +1,12 @@
 <div align="center">
+  <a href="https://tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=profile">
+    <img src="https://raw.githubusercontent.com/Tartarus-AI/Tartarus-AI/main/assets/tartarus-banner.jpg" alt="TartarusAI — uncensored coding agent. Built for the work." width="100%">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Tartarus-AI/tartarusai-cli/main/assets/avatar-min.png" width="120" alt="TartarusAI">
   <h1>TartarusAI</h1>
   <p><i>Uncensored AI coding agent. Doesn't refuse your own work.</i></p>
@@ -24,11 +32,11 @@ No card on file, no recurring charge, no "I can't help with that."
 
 | | |
 |---|---|
-| 🌐 Site     | [tartarusai.dev](https://tartarusai.dev) |
+| 🌐 Site     | [tartarusai.dev](https://tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=profile) |
 | 💬 Discord  | [discord.gg/GfzePawBBd](https://discord.gg/GfzePawBBd) |
 | 🐦 X        | [@TartarusAIDev](https://x.com/TartarusAIDev) |
 | 👥 Reddit   | [r/TartarusAI](https://reddit.com/r/TartarusAI) |
-| 📰 Blog     | [tartarusai.dev/blog](https://tartarusai.dev/blog) |
+| 📰 Blog     | [tartarusai.dev/blog](https://tartarusai.dev/blog?utm_source=github&utm_medium=readme&utm_campaign=profile) |
 | 📧 Email    | team@tartarusai.dev |
 
 ---
